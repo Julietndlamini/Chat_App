@@ -1,5 +1,9 @@
 Portfolio Project Blog post
 
+AUTHORS
+JULIET NDLAMINI(https://x.com/ndlamini_juliet/status/1663230628970610699?s=48)
+EMMANUEL EDUKE(https://www.linkedin.com/in/emmyeduke?trk=contact-info)
+
 two sockets process which is sending and receiving bytes.  Steps involved in this process is as follows:
 
 Task 0
